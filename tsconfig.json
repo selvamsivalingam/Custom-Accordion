@@ -17,6 +17,14 @@
     "lib": [
       "es2018",
       "dom"
-    ]
+    ],
+    "paths": {
+      "custom-accordion": [
+        "dist/custom-accordion"
+      ],
+      "custom-accordion/*": [
+        "dist/custom-accordion/*"
+      ]
+    }
   }
 }
